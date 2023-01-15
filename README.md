@@ -13,4 +13,4 @@
 [“Russia”, “Denmark”, “Kazan”] → []
 # Решение:
 1. Репозиторий создан - для просмотра репозитория перейдите по [ссылке](https://github.com/BogdanFad/first-verification-work);
-2. Нарисовал Блок-Схему в drawio ![block diagram](blockdiagram.drawio.png);
+2. Нарисовал Блок-Схему в drawio [block diagram](https://github.com/BogdanFad/first-verification-work/blob/master/block%20diagram.drawio.png);
