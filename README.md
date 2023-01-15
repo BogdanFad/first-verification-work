@@ -11,3 +11,5 @@
 [“Hello”, “2”, “world”, “:-)”] → [“2”, “:-)”]
 [“1234”, “1567”, “-2”, “computer science”] → [“-2”]
 [“Russia”, “Denmark”, “Kazan”] → []
+# Решение:
+1. Репозиторий создан - Для просмотра репозитория перейдите по [ссылке](https://github.com/BogdanFad/first-verification-work);
